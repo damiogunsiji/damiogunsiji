@@ -218,7 +218,7 @@ I am particularly interested in building technology that improves access, effici
 
 <p align="center">
   <a href="https://github.com/damiogunsiji">GitHub</a> •
-  <a href="https://damilareogunsiji.com">Website</a> •
+  <a href="https://damiogunsiji.com">Website</a> •
   <a href="https://twitter.com/damiogunsiji">X / Twitter</a> •
   <a href="mailto:hi@damiogunsiji.com">Email</a>
 </p>
