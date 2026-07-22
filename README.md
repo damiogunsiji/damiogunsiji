@@ -136,7 +136,7 @@ Areas of focus include:
 * PHP
 * Python
 * REST APIs
-* Livewire
+* Laravel Livewire
 * Alpine.js
 * Tailwind CSS
 * MySQL
