@@ -85,7 +85,7 @@ Outside engineering, I explore artificial intelligence, business strategy, finan
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damiogunsiji&theme=dracula" height="150" alt="GitHub statistics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damiogunsiji&theme=dracula" height="150" alt="Most-used languages" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=damiogunsiji&theme=radical" alt="GitHub contribution streak" />
+  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=damiogunsiji&color=blueviolet" alt="Profile views" />
 </div>
