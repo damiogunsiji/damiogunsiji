@@ -22,8 +22,7 @@ I build fintech infrastructure, payment systems, SaaS platforms, and automation 
 
 [![Damilare's commit history](https://commit-history.com/embed/damiogunsiji)](https://commit-history.com/damiogunsiji)
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damiogunsiji&theme=dracula)](https://github.com/damiogunsiji)
-[![Most-used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damiogunsiji&theme=dracula)](https://github.com/damiogunsiji)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=damiogunsiji&show_icons=true&theme=dracula)](https://github.com/damiogunsiji)
 [![Contribution streak](https://streak-stats.demolab.com/?user=damiogunsiji&theme=dracula)](https://git.io/streak-stats)
 
 ## Contact
