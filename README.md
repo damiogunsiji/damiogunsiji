@@ -16,7 +16,12 @@ I build fintech infrastructure, payment systems, SaaS platforms, and automation 
 [![PHP, Laravel, MySQL, PostgreSQL, Redis, Python, Go](https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,redis,python,go)](https://skillicons.dev)
 [![JavaScript, Alpine.js, Tailwind CSS](https://skillicons.dev/icons?i=js,alpinejs,tailwind)](https://skillicons.dev)
 [![Kotlin — Compose Multiplatform (Android, iOS, watchOS)](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
-[![Docker, Linux, NGINX, Bash, Git, GitHub](https://skillicons.dev/icons?i=docker,linux,nginx,bash,git,github)](https://skillicons.dev)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 ## GitHub Stats
 
